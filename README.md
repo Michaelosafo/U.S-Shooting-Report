@@ -1,4 +1,4 @@
-# US Police Shooting Dashboard
+# US Police Shooting Report
 
 ## Problem Statement
 
@@ -6,7 +6,7 @@ Police shootings are a controversial and sensitive topic in the United States, w
 
 ## Overview
 
-This dashboard provides insights into police shooting deaths in the United States, aiming to increase transparency and accountability.
+This Report provides insights into police shooting deaths in the United States, aiming to increase transparency and accountability.
 
 ## Key Findings
 
@@ -27,4 +27,4 @@ This dashboard provides insights into police shooting deaths in the United State
 
 Power BI Report
 
-This dashboard was created using Power BI.
+This report was created using Power BI.
